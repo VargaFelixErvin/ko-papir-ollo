@@ -48,3 +48,4 @@ while run:
     if e not in ["N", "I"]:
         print("hibás érték")
         run = False
+
